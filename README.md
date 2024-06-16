@@ -23,8 +23,8 @@ This project implements a knowledge-based (KB) agent that explores a grid enviro
 
 1. **Clone the Repository**
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone <[repository_url](https://github.com/Bilal-Ahmad102/Wumpus)>
+    cd <Wumpus>
     ```
 
 2. **Install Dependencies**
@@ -48,11 +48,11 @@ This project implements a knowledge-based (KB) agent that explores a grid enviro
 ## Usage
 To run the KB Agent visualization, execute the following command:
 ```bash
-python <script_name>.py
+python <WUMPUS>.py
 ```
 
 ## Project Structure
-- **main.py**: The main script containing the KB Agent logic and Pygame visualization.
+- **WUMPUS.py**: The main script containing the KB Agent logic and Pygame visualization.
 - **Wumpus/src/**: Directory containing the image assets used for visualization.
 
 ## Key Components
