@@ -89,13 +89,13 @@ The grid environment and agent movements are visualized using Pygame. The agent 
 Here are some screenshots of the KB Agent in action:
 
 ### Environment 1:
-!(https://github.com/Bilal-Ahmad102/Wumpus/blob/main/src/ScreenShots/Screenshot%20from%202024-06-16%2011-24-24.png)
+![Environment 1](https://github.com/Bilal-Ahmad102/Wumpus/blob/main/src/ScreenShots/Screenshot%20from%202024-06-16%2011-24-24.png)
 
 ###  Environment 2:
-!(https://github.com/Bilal-Ahmad102/Wumpus/blob/main/src/ScreenShots/Screenshot%20from%202024-06-16%2011-24-37.png)
+![Environment 2](https://github.com/Bilal-Ahmad102/Wumpus/blob/main/src/ScreenShots/Screenshot%20from%202024-06-16%2011-24-37.png)
 
 ###  Environment 3:
-!(https://github.com/Bilal-Ahmad102/Wumpus/blob/main/src/ScreenShots/Screenshot%20from%202024-06-16%2011-24-37.png)
+![Environment 3](https://github.com/Bilal-Ahmad102/Wumpus/blob/main/src/ScreenShots/Screenshot%20from%202024-06-16%2011-24-37.png)
 
 ## Conclusion
 This project demonstrates a knowledge-based agent navigating a hazardous environment, making use of percepts to update its knowledge and make informed decisions. The Pygame visualization provides an intuitive view of the agent's exploration process.
