@@ -23,7 +23,7 @@ This project implements a knowledge-based (KB) agent that explores a grid enviro
 
 1. **Clone the Repository**
     ```bash
-    git clone [repository_url](https://github.com/Bilal-Ahmad102/Wumpus)
+    git clone https://github.com/Bilal-Ahmad102/Wumpus
     cd Wumpus
     ```
 
