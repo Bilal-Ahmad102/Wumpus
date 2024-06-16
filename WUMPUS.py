@@ -125,7 +125,7 @@ def generate_random_environment(environment_size):
     
     # Define probabilities for elements
     pit_prob = 0.15
-    wumpus_prob = 0.05
+    wumpus_prob = 0.15
     gold_prob = 0.02
     
     # Place elements in the environment
@@ -181,10 +181,7 @@ def draw_grid(screen, agent, environment, cell_size, images):
     for y in range(len(environment)):
         for x in range(len(environment[y])):
             rect = pygame.Rect(x * cell_size, y * cell_size, cell_size, cell_size)
-            if agent.current_position == (x, y):
-                pygame.draw.rect(screen, (0, 255, 0), rect)  # Green for agent's position
-            else:
-                pygame.draw.rect(screen, (255, 255, 255), rect)  # White for empty cell
+            pygame.draw.rect(screen, (255, 255, 255), rect)  # White for empty cell
             pygame.draw.rect(screen, (0, 0, 0), rect, 1)  # Black border
             
             # Draw percepts
